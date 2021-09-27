@@ -11,6 +11,4 @@ favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
 upzoom: true
-items:
-  - name: "About "
-    siteurl: /about/
+items: []
