@@ -1,6 +1,6 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: "ABOUT THIS WEBSITE "
+title: About
 image: ../uploads/photo-1546502208-81d149d52bd7.jpeg
 subtitle: ""
 permalink: /about/
