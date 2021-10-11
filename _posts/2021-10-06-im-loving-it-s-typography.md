@@ -12,7 +12,7 @@ McDonalds is one of the most prominent and popular fast-food chains and first op
 
 ![McDonalds advertisement from the 1970's](../uploads/mcdonalds-.png "McDonalds advertisement from the 1970's")
 
-![McDonald's "be happy" advertisement ](../uploads/mcds-bright-red-happy-meal-smiling-box-eyudnqlxmaqrjxc.jpeg "McDonald's \\\"be happy\\\" advertisement ")
+![McDonald's "be happy" advertisement ](../uploads/mcds-bright-red-happy-meal-smiling-box-eyudnqlxmaqrjxc.jpeg "McDonald's \\\\"be happy\\\\" advertisement ")
 
 On the other hand, there are numerous differences as the brand has evolved over time. As time has progressed, the typographical techniques used have begun to connote more of a sense of arrogance. In the advertisement from the 1970’s, a much higher amount of text is used and the typography itself is more condensed; it is as though the advertisers are trying to fit as much information as possible into the poster in order to really sell the product. Also, the recognisable McDonald’s logo of the yellow *‘M’* (or “*the Golden Arches"*) is used numerous times in one advertisement, possibly to engrave it in the consumers mind. This some-what prestigious and stylised logo introduced in 1968 directly juxtaposes to the simple and basic font used in the rest of text, this could as a result indicate the fact that despite being high-quality food it is still accessible to everybody.
 
@@ -24,11 +24,11 @@ On the other hand, there are numerous differences as the brand has evolved over 
 
 The recognisability of the brands familiar typography is particularly noticeable when looking at the "this is McDonald's" advertising campaign, launched in 2020, in which they depicted their menu in a typographic form and cleverly used font to create imagery of their food without an actual picture:
 
-!["This is McDonald's" burger billboard advertisement ](../uploads/2020.2.5_mcdonaldstypographyhero_3x2.jpg "\\\"This is McDonald's\\\" burger billboard advertisement ")
+!["This is McDonald's" burger advertisement ](../uploads/md3.png "\\\\"This is McDonald's\\\\" burger  advertisement ")
 
-!["This is McDonald's" burger advertisement ](../uploads/picture-.jpg "\\\"This is McDonald's\\\" burger advertisement ")
+!["This is McDonald's" burger advertisement ](../uploads/picture-.jpg "\\\\"This is McDonald's\\\\" burger advertisement ")
 
-!["This is McDonald's" breakfast billboard advertisement ](../uploads/picture-1.jpg "\\\"This is McDonald's\\\" breakfast billboard advertisement ")
+!["This is McDonald's" breakfast advertisement ](../uploads/md2.png "\\\\"This is McDonald's\\\\" breakfast advertisement ")
 
 This emphasises the brands familiarity and the fact that it does not feel the need to stick to the norm as it did not include a logo nor the red, yellow and white theme that consumers are used to. Nevertheless, the use of the bold san serif font and simplicity of the design was familiar enough to consumers to know who the advertiser is, which only further reiterates the power that typography within their advertisements has had on the brands success overall. 
 
