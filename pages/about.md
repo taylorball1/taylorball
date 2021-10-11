@@ -1,8 +1,8 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: About
-image: ../uploads/photo-1546502208-81d149d52bd7.jpeg
-subtitle: ""
+title: Why Advertype?
+image: ../uploads/banner2.jpeg
+subtitle: "About this website "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
