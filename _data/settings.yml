@@ -9,6 +9,6 @@ navbarheight: 55px
 logo: ../uploads/logonew.png
 favicon: ../uploads/untitled-3.png
 gridlayout: true
-fixednavbar: false
+fixednavbar: true
 upzoom: true
 items: []
