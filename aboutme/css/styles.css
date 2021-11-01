@@ -1,0 +1,91 @@
+
+body{
+    height:100%;
+    background-color: rgb(248, 142, 139);
+    background: radial-gradient(
+        circle, rgb(248, 142, 139)0%,
+        rgb(139, 191, 250) 100%
+        )
+}
+
+h1 {
+    margin-top: 40px;
+    text-align: center;
+    color:red;
+    font-size:40px;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: underline;
+   }
+img{
+    width: 250px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+h2{
+    font-family:fantasy;
+    text-align: center;
+    margin-top: 35px;
+    font-size: 35px;
+    color: red;
+}
+p{ 
+    margin-top: -20px;
+    font-size: 18px;
+    font-family:initial;
+
+}
+.paragraphone {
+    max-width: 900px;
+    width: 100%;
+    margin: auto;
+}
+
+.pictures img {
+    margin-top: 30px;
+    display: inline-block;
+    width:200px;
+    height:250px;
+    margin-left: 56px;
+}
+.pictures:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+.photo img {
+    border-radius: 50%;
+  
+}
+
+.other img{
+    width: 350px;
+    height: 600px;
+    margin-bottom: 100px;
+}
+
+.homepage a{
+    color:red;
+   
+}
+
+.homepage {
+    margin-top: 60px;
+    background-color: rgb(157, 232, 255);
+    width: 50px;
+}
+
+ul{
+    text-align: center;
+}
+
+main {
+
+    width: 100%;
+    margin: auto;
+    justify-content: center;
+    
+}
+
+   
