@@ -11,4 +11,6 @@ favicon: ../uploads/untitled-3.png
 gridlayout: true
 fixednavbar: true
 upzoom: true
-items: []
+items:
+  - name: "About Me "
+    siteurl: /aboutme/
