@@ -23,8 +23,9 @@ The red and white colour theme with the bold typography, which is often found in
 
 In terms of the banner imagery and other visual elements, it’s quite self explanatory. In the sense that it reflects the variety that this website brings when it comes to the type of advertising that is being explored. 
 
-## **\
-*The brand***   
+
+
+## **The brand**
 
 This website looks at how effective our favourite brands' marketing is when it comes to the typography they use. Many of these brands (as you will discover) use bold and loud strategies. The Advertype brand wants to reflect this. 
 
